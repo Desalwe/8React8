@@ -1,3 +1,5 @@
+PROJECT IS DEPLOYED ON NETLIFY AT: https://focused-wilson-5a93bc.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
